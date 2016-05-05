@@ -1,0 +1,28 @@
+name: Will Larson
+favicon: null
+layout_spectrum: 0.6484643421135843
+typography_spectrum: 0.8404572415165603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5658555622212589
+  lightness: 0.3566216167528182
+  saturation: 0.8909381839912385
+  rhythmicContrast: 0.5691773514263332
+purpose: []
