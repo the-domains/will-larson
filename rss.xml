@@ -4,8 +4,15 @@
         <description><![CDATA[Will Larson]]></description>
         <link>https://thegrid.ai/will-larson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 17:42:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/will-larson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/313f59f5-3c4f-41ed-bd78-906532084390.jpg">]]></description>
+            <link>https://thegrid.ai/will-larson/denise-at-indie-cage-match-june-5-2016-we-had-a-really-g/index.html</link>
+            <guid isPermaLink="false">a29e75c9-944d-43d9-a306-1e89ee565d77</guid>
+            <pubDate>Sun, 12 Jun 2016 17:42:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0491de95-f1b6-40c7-8051-4a8adfa1f896.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/will-larson/7cfc3f09-be48-4633-9aff-54320091c10d/index.html</link>
             <guid isPermaLink="false">7cfc3f09-be48-4633-9aff-54320091c10d</guid>
             <pubDate>Thu, 05 May 2016 21:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f6f0500-f59a-4c07-bd27-0d2103278866.jpg">]]></description>
-            <link>https://thegrid.ai/will-larson/96ec58af-d386-4edd-8df1-f1aae5e854dc/index.html</link>
-            <guid isPermaLink="false">96ec58af-d386-4edd-8df1-f1aae5e854dc</guid>
-            <pubDate>Thu, 05 May 2016 21:03:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
