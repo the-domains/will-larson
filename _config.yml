@@ -29,9 +29,6 @@ cta:
   version: null
 navigation:
   - name: Photos
-    id: 1fa43493-4eb5-49ff-8b76-c1a8fad6b016
-    type: content
-  - name: Photos
     id: 73d0b70e-2118-4f6a-be1e-402732870301
     type: content
 favicon: null
