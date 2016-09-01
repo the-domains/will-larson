@@ -4,8 +4,15 @@
         <description><![CDATA[Will Larson]]></description>
         <link>https://thegrid.ai/will-larson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 09:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 10:04:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/will-larson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Denise! - New York Improv Teams]]></title>
+            <description><![CDATA[<article><h1>Denise! - New York Improv Teams</h1><p>New York Improv Teams is the place to find New York's improv shows, teams, and venues.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8086b94b284e01d7cd022b0e931edec6/noop.jpg?input=http%3A%2F%2Fnewyork.improvteams.com%2Fimg%2Fteams%2FPa44.jpg"></article>]]></description>
+            <link>http://denise.improvteams.com/</link>
+            <guid isPermaLink="false">19a4be6e-957d-4663-8748-9e9746cabc79</guid>
+            <pubDate>Tue, 30 Aug 2016 10:04:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70bcb247-c4e8-47fb-9d89-334d601f7024.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/will-larson/2aec3fe8-afa0-43bc-9513-926757c66c8f/index.html</link>
             <guid isPermaLink="false">2aec3fe8-afa0-43bc-9513-926757c66c8f</guid>
             <pubDate>Thu, 05 May 2016 21:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/072b3db2-ec3a-464d-b4ac-e5651511cde8.jpg">]]></description>
-            <link>https://thegrid.ai/will-larson/ace18bbd-3d9c-4404-a00c-0b6ed1e08589/index.html</link>
-            <guid isPermaLink="false">ace18bbd-3d9c-4404-a00c-0b6ed1e08589</guid>
-            <pubDate>Thu, 05 May 2016 21:09:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
