@@ -1,4 +1,3 @@
-layout_spectrum: 0.7869769057724625
 typography_spectrum: 0.20623601251281798
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7869769057724625
 analytics:
   google: null
   facebook: null
@@ -28,9 +28,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Design
-    id: 10af3eea-be0d-433d-bf05-06bac4ec574c
-    type: content
   - name: Design
     id: 7cfc3f09-be48-4633-9aff-54320091c10d
     type: content
