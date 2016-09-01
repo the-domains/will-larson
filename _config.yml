@@ -31,6 +31,9 @@ navigation:
   - name: Design
     id: 7cfc3f09-be48-4633-9aff-54320091c10d
     type: content
+  - name: Photos
+    id: 1fa43493-4eb5-49ff-8b76-c1a8fad6b016
+    type: content
 favicon: null
 title: Will Larson
 description: 'High Concept, Low Brow'
