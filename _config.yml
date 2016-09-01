@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Will Larson
+  email: William.Larson1@gmail.com
 name: Will Larson
 cta:
   domain: null
