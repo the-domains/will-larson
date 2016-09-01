@@ -27,10 +27,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Photos
-    id: 73d0b70e-2118-4f6a-be1e-402732870301
-    type: content
 favicon: null
 title: Will Larson
 description: 'High Concept, Low Brow'
